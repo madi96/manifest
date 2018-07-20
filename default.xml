@@ -3,7 +3,7 @@
     <remote name="sengsu_bitbucket" fetch="https://bitbucket.org/seungsu"/>
     <remote name="github_robotsthatdreams" fetch="https://github.com/robotsthatdream"/>
 
-    <default revision="master" remote="master"/>
+    <default revision="master" remote="origin"/>
 
     <project name="cd_dynamics.git" remote="sengsu_bitbucket" path="~/git/cd_dynamics"/>
     <project name="dream_utils.git" remote="sengsu_bitbucket" path="~/git/dream_utils" />
