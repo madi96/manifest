@@ -6,8 +6,8 @@
 
     <default revision="master" remote="github_madi96"/>
 
-    <project name="cd_dynamics.git" remote="sengsu_bitbucket" path="~/git/cd_dynamics"/>
-    <project name="dream_utils.git" remote="sengsu_bitbucket" path="~/git/dream_utils" />
+    <!-- <project name="cd_dynamics.git" remote="sengsu_bitbucket" path="~/git/cd_dynamics"/> -->
+    <!-- <project name="dream_utils.git" remote="sengsu_bitbucket" path="~/git/dream_utils" /> -->
     <project name="qd_repertoire.git" remote="github_robotsthatdreams" path="~/git/qd_repertoire" />
     <project name="mocap_optitrack.git" remote="robotsthatdreams" path="~/git/mocap_optitrack" />
 
