@@ -2,7 +2,7 @@
 <manifest>
     <remote name="sengsu_bitbucket" fetch="https://bitbucket.org/seungsu"/>
     <remote name="github_robotsthatdreams" fetch="https://github.com/robotsthatdream"/>
-    <remote name="github_madi96" fetch="https://github.com/madi96/manifest.git"/>
+    <remote name="github_madi96" fetch="https://github.com/madi96/"/>
 
     <default revision="master" remote="github_madi96"/>
 
